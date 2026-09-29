@@ -8,11 +8,11 @@
 
 # Examples
 
-Twenty-two finished videos, each made with [showtime](https://github.com/Mudassir-Kidwai/video-creator-crew) by an agent acting as a user. Every folder has the
+Twenty-three finished videos, each made with [showtime](https://github.com/Mudassir-Kidwai/video-creator-crew) by an agent acting as a user. Every folder has the
 project sources, the share copy and a README that tells the story: the request, the assumptions, the
 commands, what the critic found and what changed. Pick one from the wall, or jump to a use case:
 
-<p align="center"><a href="#data-and-reports"><b>Data and reports</b></a> (3) · <a href="#explainers"><b>Explainers</b></a> (4) · <a href="#product-and-brand"><b>Product and brand</b></a> (4) · <a href="#footage-and-audio"><b>Footage and audio</b></a> (2) · <a href="#tutorials"><b>Tutorials</b></a> (3) · <a href="#social"><b>Social</b></a> (3) · <a href="#trailers-and-montage"><b>Trailers and montage</b></a> (4) · <a href="#for-developers"><b>For developers</b></a> (1)</p>
+<p align="center"><a href="#data-and-reports"><b>Data and reports</b></a> (3) · <a href="#explainers"><b>Explainers</b></a> (4) · <a href="#product-and-brand"><b>Product and brand</b></a> (4) · <a href="#footage-and-audio"><b>Footage and audio</b></a> (2) · <a href="#tutorials"><b>Tutorials</b></a> (3) · <a href="#social"><b>Social</b></a> (4) · <a href="#trailers-and-montage"><b>Trailers and montage</b></a> (4) · <a href="#for-developers"><b>For developers</b></a> (1)</p>
 
 <table>
 <tr>
@@ -44,6 +44,7 @@ commands, what the critic found and what changed. Pick one from the wall, or jum
 <td width="16%" align="center"><a href="#ex-20"><img src="https://github.com/Mudassir-Kidwai/video-creator-crew/raw/main/assets/readme/gallery/20-curtain-call-pack.webp" width="100%" alt="Red velvet curtains part on a spotlit stage: the showtime logo sting."></a><br><sub><b>20</b></sub></td>
 <td width="16%" align="center"><a href="#ex-21"><img src="https://github.com/Mudassir-Kidwai/video-creator-crew/raw/main/assets/readme/gallery/21-tutorial-studio-board.webp" width="100%" alt="The showtime studio board comparing two concepts side by side."></a><br><sub><b>21</b></sub></td>
 <td width="16%" align="center"><a href="#ex-22"><img src="https://github.com/Mudassir-Kidwai/video-creator-crew/raw/main/assets/readme/gallery/22-manim-circle-area.webp" width="100%" alt="A circle made of rings unrolls into a triangle, a Manim animation."></a><br><sub><b>22</b></sub></td>
+<td width="16%" align="center"><a href="#ex-23"><img src="https://github.com/Mudassir-Kidwai/video-creator-crew/raw/main/assets/readme/gallery/23-cat-dog.webp" width="100%" alt="A cartoon cat on orange warps into a cartoon dog on blue."></a><br><sub><b>23</b></sub></td>
 </tr>
 </table>
 
@@ -342,6 +343,21 @@ download one and open it to play it.
 <p><sub>THE PROMPT</sub><br><i>“Make a 45-second travel slideshow of an Iceland ring-road trip from these CC0 photos, cut to the music, with a little map showing where each place is. Also a vertical version for Reels.”</i></p>
 <p><sub>WHAT IT SHOWS</sub><br>CC0 photos cut to the music, live map inset, native vertical re-layout</p>
 <p>▶ <a href="https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/19-travel-slideshow-iceland--final.mp4"><code>final.mp4</code></a> · <a href="https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/19-travel-slideshow-iceland--final-9x16.mp4"><code>final-9x16.mp4</code></a><br><a href="19-travel-slideshow-iceland/">the folder, the story and the commands</a></p>
+</td>
+</tr>
+</table>
+
+<a id="ex-23"></a>
+
+<table>
+<tr>
+<td width="44%" valign="top"><a href="23-cat-dog/"><img src="https://github.com/Mudassir-Kidwai/video-creator-crew/raw/main/assets/readme/gallery/23-cat-dog.webp" width="100%" alt="A cartoon cat on orange warps into a cartoon dog on blue."></a></td>
+<td valign="top">
+<sub>23 · 5 s · 16:9</sub><br>
+<b><a href="23-cat-dog/">Cat to dog</a></b>
+<p><sub>THE PROMPT</sub><br><i>“Create a short 5 second transition video of a cat and a dog.”</i></p>
+<p><sub>WHAT IT SHOWS</sub><br>Two CSS-animated SVG scenes, one morph-warp shader transition, a generated music bed</p>
+<p>▶ <a href="23-cat-dog/final.mp4"><code>final.mp4</code></a><br><a href="23-cat-dog/">the folder, the story and the commands</a></p>
 </td>
 </tr>
 </table>

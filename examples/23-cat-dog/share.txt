@@ -1,0 +1,8 @@
+A cat becomes a dog in five seconds. Two drawn scenes, one warped-fractal transition, a generated music bed. Made with showtime.
+
+X (≤280)
+Cat → dog in 5 seconds: two animated SVG faces, one WebGL morph-warp transition, a generated music bed. Made locally with showtime.
+
+GitHub README
+Caption: A 5-second cat-to-dog transition made with showtime: two CSS-animated SVG scenes joined by a morph-warp shader.
+Alt text: An orange scene with a cartoon cat face captioned "Meow." warps into a blue scene with a cartoon dog face captioned "Woof."

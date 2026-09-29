@@ -1,0 +1,9 @@
+{
+  "sample_rate": 48000,
+  "tracks": [
+    {"id": "bed", "kind": "music", "compose": {"style": "upbeat-tech", "bpm": 120, "key": "D", "sections": "0:intro,2.5:drop", "seed": 1}, "gain_db": 0, "fade_out": 0.8},
+    {"kind": "sfx", "synth": {"type": "whoosh", "intensity": 0.6, "seed": 2}, "at": 2.5, "align": "hit", "gain_db": -3},
+    {"kind": "sfx", "synth": {"type": "thock", "intensity": 0.6, "seed": 3}, "at": 0.4, "align": "hit", "gain_db": -4}
+  ],
+  "master": {"lufs": -14, "true_peak": -1}
+}
