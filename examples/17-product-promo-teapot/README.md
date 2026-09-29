@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/17-product-promo-teapot--final.mp4) (final-6) · 1080x1080 · 30 fps · 20.00 s · 15.0 MB · -14.1 LUFS / -1.3 dBTP ·
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/17-product-promo-teapot--final.mp4) (final-6) · 1080x1080 · 30 fps · 20.00 s · 15.0 MB · -14.1 LUFS / -1.3 dBTP ·
 **Bumper:** [`bumper.mp4`](bumper.mp4) · 1080x1080 · 6.00 s · 2.6 MB · -14.1 LUFS / -1.5 dBTP ·
 **Exports:** [`exports/final.square.mp4`](exports/final.square.mp4) (4.7 MB), [`exports/final.x.mp4`](exports/final.x.mp4)
 (1920x1080, 5.0 MB), [`exports/final.linkedin.mp4`](exports/final.linkedin.mp4) (1920x1080, 5.0 MB) ·

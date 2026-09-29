@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Tutorial (16:9):** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/21-tutorial-studio-board--final.mp4) · 1920x1080 · 30 fps · 75.00 s · 18.0 MB · -16.0 LUFS / -3.8 dBTP ·
+**Tutorial (16:9):** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/21-tutorial-studio-board--final.mp4) · 1920x1080 · 30 fps · 75.00 s · 18.0 MB · -16.0 LUFS / -3.8 dBTP ·
 captions as sidecars [`captions.srt`](captions.srt) and [`captions.vtt`](captions.vtt) (not burned)
 **Shorts cut (9:16):** [`final-9x16.mp4`](final-9x16.mp4) · 1080x1920 · 30 fps · 28.47 s · 8.2 MB · -16.0 LUFS /
 -4.0 dBTP · captions burned (bold-pop) · poster [`poster-9x16.jpg`](poster-9x16.jpg)

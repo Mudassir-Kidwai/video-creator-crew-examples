@@ -2,9 +2,9 @@
 
 ![poster](poster.jpg)
 
-**English:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/14-usgs-kilauea-pdf--final.mp4) · 1920x1080 · 30 fps · 75.00 s · 18.6 MB · -14.0 LUFS / -1.6 dBTP
+**English:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/14-usgs-kilauea-pdf--final.mp4) · 1920x1080 · 30 fps · 75.00 s · 18.6 MB · -14.0 LUFS / -1.6 dBTP
 · sidecar captions [`final.srt`](final.srt)
-**Spanish:** [`final-es.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/14-usgs-kilauea-pdf--final-es.mp4) · 1920x1080 · 30 fps · 81.30 s · 18.7 MB · -14.0 LUFS / -1.6 dBTP
+**Spanish:** [`final-es.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/14-usgs-kilauea-pdf--final-es.mp4) · 1920x1080 · 30 fps · 81.30 s · 18.7 MB · -14.0 LUFS / -1.6 dBTP
 · burned subtitles, plus a sidecar [`final-es.srt`](final-es.srt)
 
 A two-page U.S. Geological Survey PDF became a 75-second narrated summary, then a Spanish version

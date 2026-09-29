@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/07-data-story--final.mp4) · 1920x1080 · 30 fps · 30.00 s · 15.7 MB · -14.0 LUFS / -1.4 dBTP
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/07-data-story--final.mp4) · 1920x1080 · 30 fps · 30.00 s · 15.7 MB · -14.0 LUFS / -1.4 dBTP
 (re-rendered for the stricter check: see "Re-render" after review round 2)
 
 ## The request

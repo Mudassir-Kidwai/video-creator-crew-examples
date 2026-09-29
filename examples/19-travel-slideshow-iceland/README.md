@@ -2,9 +2,9 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/19-travel-slideshow-iceland--final.mp4) · 1920x1080 · 30 fps · 45.00 s · 18.9 MB · -14.0 LUFS / -1.4 dBTP
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/19-travel-slideshow-iceland--final.mp4) · 1920x1080 · 30 fps · 45.00 s · 18.9 MB · -14.0 LUFS / -1.4 dBTP
 (a size-capped copy of the 153 MB CRF-16 master `final-5.mp4`, `deliver exports --targets original --max-mb 20`) ·
-**Reels:** [`final-9x16.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/19-travel-slideshow-iceland--final-9x16.mp4) · 1080x1920 · 45.00 s · 18.9 MB · -14.0 LUFS / -1.4 dBTP, a native
+**Reels:** [`final-9x16.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/19-travel-slideshow-iceland--final-9x16.mp4) · 1080x1920 · 45.00 s · 18.9 MB · -14.0 LUFS / -1.4 dBTP, a native
 9:16 re-layout rendered from the same page, not a crop ([`poster-9x16.jpg`](poster-9x16.jpg)) ·
 **Showcase loop:** [`exports/loop-small.webp`](exports/loop-small.webp) (480x270, 12 fps, 6 s, 0.64 MB) with a
 [`exports/loop-small.gif`](exports/loop-small.gif) fallback (336x190, 10 fps, 1.40 MB), the whip run at 19.9-25.9 s.

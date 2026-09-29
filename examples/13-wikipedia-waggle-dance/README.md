@@ -2,10 +2,10 @@
 
 ![poster](poster.jpg)
 
-**English:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/13-wikipedia-waggle-dance--final.mp4) · 1920x1080 · 30 fps · 60.00 s · 15.0 MB · -14.1 LUFS / -1.5 dBTP ·
-web page [`waggle-dance.html`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/13-wikipedia-waggle-dance--waggle-dance.html) (11.3 MB, one file, plays offline, 7 chapters)
-**Français :** [`final-fr.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/13-wikipedia-waggle-dance--final-fr.mp4) · 1920x1080 · 30 fps · 64.20 s · 15.1 MB · -14.1 LUFS / -1.6 dBTP ·
-web page [`danse-fretillante.html`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/13-wikipedia-waggle-dance--danse-fretillante.html) (11.4 MB)
+**English:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/13-wikipedia-waggle-dance--final.mp4) · 1920x1080 · 30 fps · 60.00 s · 15.0 MB · -14.1 LUFS / -1.5 dBTP ·
+web page [`waggle-dance.html`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/13-wikipedia-waggle-dance--waggle-dance.html) (11.3 MB, one file, plays offline, 7 chapters)
+**Français :** [`final-fr.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/13-wikipedia-waggle-dance--final-fr.mp4) · 1920x1080 · 30 fps · 64.20 s · 15.1 MB · -14.1 LUFS / -1.6 dBTP ·
+web page [`danse-fretillante.html`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/13-wikipedia-waggle-dance--danse-fretillante.html) (11.4 MB)
 
 > **Licence: CC BY-SA 4.0**, not MIT. This video, its script and its project sources are adapted from a Wikipedia
 > article, so they carry the article's share-alike licence ([LICENSE.txt](LICENSE.txt)). The repository's MIT

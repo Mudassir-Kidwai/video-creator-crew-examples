@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/03-explainer-heat-pump-es--final.mp4) · 1920x1080 · 30 fps · 50.90 s · 17.3 MB · -14.0 LUFS / -1.6 dBTP
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/03-explainer-heat-pump-es--final.mp4) · 1920x1080 · 30 fps · 50.90 s · 17.3 MB · -14.0 LUFS / -1.6 dBTP
 · Spanish sidecar captions [`captions.srt`](captions.srt)
 
 **Web page:** [`bomba-de-calor.html`](bomba-de-calor.html) · one file, 1.1 MB · plays offline · 9 chapters (see "Web page" below)

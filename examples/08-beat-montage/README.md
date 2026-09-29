@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/08-beat-montage--final.mp4) · 1920x1080 · 30 fps · 20.00 s · 13.6 MB · -14.0 LUFS / -1.6 dBTP
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/08-beat-montage--final.mp4) · 1920x1080 · 30 fps · 20.00 s · 13.6 MB · -14.0 LUFS / -1.6 dBTP
 
 ## The request
 

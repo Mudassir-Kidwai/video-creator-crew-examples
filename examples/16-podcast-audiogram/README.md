@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/16-podcast-audiogram--final.mp4) · 1080x1920 · 30 fps · 45.00 s · 19.1 MB · -14.2 LUFS / -1.4 dBTP · loops ·
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/16-podcast-audiogram--final.mp4) · 1080x1920 · 30 fps · 45.00 s · 19.1 MB · -14.2 LUFS / -1.4 dBTP · loops ·
 **Captions sidecar (optional, Shorts only):** [`captions.en.srt`](captions.en.srt)
 
 ## The request

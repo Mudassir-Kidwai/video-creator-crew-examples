@@ -3,7 +3,7 @@
 A 50.5 second, 1920x1080 narrated tutorial recorded from a real, running web app. Every click and
 keystroke in it happened in a browser, and each one lands on the word of narration that names it.
 
-- **Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/04-tutorial-tidepool--final.mp4) (18.3 MB, H.264 + AAC; re-rendered for the stricter check, see "Re-render" at the end of the review round), poster [`poster.jpg`](poster.jpg),
+- **Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/04-tutorial-tidepool--final.mp4) (18.3 MB, H.264 + AAC; re-rendered for the stricter check, see "Re-render" at the end of the review round), poster [`poster.jpg`](poster.jpg),
   captions sidecar [`final.srt`](final.srt), post copy [`share.txt`](share.txt)
 - **App:** Tidepool, a **fictional** local-first notes app that exists only as demo material
   (`examples/_apps/tidepool`). It is not a real product and has no ties to any real company with a similar name.

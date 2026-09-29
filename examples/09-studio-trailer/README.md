@@ -15,7 +15,7 @@ and a half-size animatic, got a sign-off on both, and only then rendered the fin
 
 | file | what it is |
 |---|---|
-| [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/09-studio-trailer--final.mp4) | the trailer: 1920x1080, 30 fps, 20.00 s, H.264 + AAC, 12.2 MB |
+| [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/09-studio-trailer--final.mp4) | the trailer: 1920x1080, 30 fps, 20.00 s, H.264 + AAC, 12.2 MB |
 | [`animatic.mp4`](animatic.mp4) | the approved animatic: 960x540, 20.00 s, with the real score (3.4 MB) |
 | [`studio-board.html`](studio-board.html) | the review board as one self-contained HTML file (6.9 MB, board rev 6), exported with `--target artifact` so it can be published as an HTML artifact: reviewers send back "Copy for Claude" text (no download button, which such hosts block). Download it and open it in any browser; nothing loads from the network |
 | [`poster.jpg`](poster.jpg) | the end card at 18.5 s (for this README). Frame 0 of the video is the hook, baked in from 1.0 s |

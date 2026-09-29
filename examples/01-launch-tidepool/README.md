@@ -7,7 +7,7 @@ The video says so on its end card.
 
 ![poster](poster.jpg)
 
-- **Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/01-launch-tidepool--final.mp4), 1920x1080, 30 fps, 20.00 s, H.264 + AAC, 17.0 MB (re-rendered for the stricter check and after a critic review, see "Re-render" and "Critic review" at the end of the review round)
+- **Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/01-launch-tidepool--final.mp4), 1920x1080, 30 fps, 20.00 s, H.264 + AAC, 17.0 MB (re-rendered for the stricter check and after a critic review, see "Re-render" and "Critic review" at the end of the review round)
 - **Poster:** [`poster.jpg`](poster.jpg): the hook at 3.1 s. It is not baked into frame 0: frame 0 is its own still, the kicker and "No account." (see "Critic review").
 - **Share copy:** [`share.txt`](share.txt)
 - **Source:** [`project/`](project). This is the whole showtime project. You can re-render it with `showtime render project`.

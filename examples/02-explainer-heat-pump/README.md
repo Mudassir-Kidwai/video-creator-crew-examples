@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/02-explainer-heat-pump--final.mp4) · 1920x1080 · 30 fps · 45.00 s · 15.5 MB · -14.0 LUFS / -1.5 dBTP
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/02-explainer-heat-pump--final.mp4) · 1920x1080 · 30 fps · 45.00 s · 15.5 MB · -14.0 LUFS / -1.5 dBTP
 · sidecar captions [`captions.srt`](captions.srt)
 
 **Web page:** [`heat-pump.html`](heat-pump.html) · one file, 1.0 MB · plays offline · 9 chapters (see "Web page" below)

@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/12-energy-report--final.mp4) · 1920x1080 · 30 fps · 60.10 s · 19.2 MB · -14.0 LUFS / -1.3 dBTP ·
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/12-energy-report--final.mp4) · 1920x1080 · 30 fps · 60.10 s · 19.2 MB · -14.0 LUFS / -1.3 dBTP ·
 **Web page:** [`us-power-mix.html`](us-power-mix.html) (1.7 MB, one file, plays offline, 7 chapters)
 
 ## The request

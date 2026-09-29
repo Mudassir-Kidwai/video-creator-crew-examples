@@ -2,7 +2,7 @@
 
 ![poster](poster.jpg)
 
-**Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/15-oss-release-black--final.mp4) (final-4) · 1920x1080 · 30 fps · 35.00 s · 18.0 MB · -14.1 LUFS / -1.1 dBTP ·
+**Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/15-oss-release-black--final.mp4) (final-4) · 1920x1080 · 30 fps · 35.00 s · 18.0 MB · -14.1 LUFS / -1.1 dBTP ·
 **GitHub/chat copy:** [`exports/final.github.mp4`](exports/final.github.mp4) (9.4 MB, under the 10 MB cap)
 
 ## The request

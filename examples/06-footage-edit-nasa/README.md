@@ -3,8 +3,8 @@
 ![poster](poster.jpg)
 
 **Videos:**
-- [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/06-footage-edit-nasa--final.mp4): 9:16 for Reels · repo copy at 720x1280 (the master is 1080x1920) · 30 fps · 72.3 s · 16.5 MB · -14.0 LUFS · bold-pop captions burned in
-- [`final-16x9.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/06-footage-edit-nasa--final-16x9.mp4): 16:9 · 1920x1080 · 30 fps · 72.3 s · 17.6 MB · -14.0 LUFS · phrase-level clean captions burned in, with [`final-16x9.srt`](final-16x9.srt) as a sidecar
+- [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/06-footage-edit-nasa--final.mp4): 9:16 for Reels · repo copy at 720x1280 (the master is 1080x1920) · 30 fps · 72.3 s · 16.5 MB · -14.0 LUFS · bold-pop captions burned in
+- [`final-16x9.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/06-footage-edit-nasa--final-16x9.mp4): 16:9 · 1920x1080 · 30 fps · 72.3 s · 17.6 MB · -14.0 LUFS · phrase-level clean captions burned in, with [`final-16x9.srt`](final-16x9.srt) as a sidecar
 
 These are the round-3 versions, after two critic reviews. See *Review round* below.
 

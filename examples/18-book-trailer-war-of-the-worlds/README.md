@@ -2,8 +2,8 @@
 
 ![poster](poster.jpg)
 
-**Trailer (16:9):** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/18-book-trailer-war-of-the-worlds--final.mp4) · 1920x1080 · 30 fps · 30.00 s · 17.3 MB · -14.0 LUFS / -1.4 dBTP · captions burned (+ [`captions.srt`](captions.srt) for YouTube)
-**Teaser (9:16):** [`final-teaser-9x16.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/18-book-trailer-war-of-the-worlds--final-teaser-9x16.mp4) · 1080x1920 · 30 fps · 15.00 s · 11.4 MB · -14.0 LUFS / -1.5 dBTP · captions burned · poster [`poster-teaser-9x16.jpg`](poster-teaser-9x16.jpg)
+**Trailer (16:9):** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/18-book-trailer-war-of-the-worlds--final.mp4) · 1920x1080 · 30 fps · 30.00 s · 17.3 MB · -14.0 LUFS / -1.4 dBTP · captions burned (+ [`captions.srt`](captions.srt) for YouTube)
+**Teaser (9:16):** [`final-teaser-9x16.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/18-book-trailer-war-of-the-worlds--final-teaser-9x16.mp4) · 1080x1920 · 30 fps · 15.00 s · 11.4 MB · -14.0 LUFS / -1.5 dBTP · captions burned · poster [`poster-teaser-9x16.jpg`](poster-teaser-9x16.jpg)
 
 Both are size-capped copies (`deliver exports --targets original --max-mb`) of the full-quality masters
 (236 MB and 87 MB: the film look's animated grain does not compress). Neither page was exported as HTML: the

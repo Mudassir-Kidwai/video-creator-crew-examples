@@ -6,7 +6,7 @@ synthesized on the same machine that rendered it.
 
 ![poster](poster.jpg)
 
-- **Video:** [`final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/10-launch-showtime--final.mp4), 1920x1080, 30 fps, 30.00 s, H.264 + AAC, 16.1 MB
+- **Video:** [`final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/10-launch-showtime--final.mp4), 1920x1080, 30 fps, 30.00 s, H.264 + AAC, 16.1 MB
 - **Square version:** [`final.square.mp4`](final.square.mp4), 1080x1080, 4.9 MB (from `showtime deliver exports`)
 - **Poster:** [`poster.jpg`](poster.jpg): the end card at 29.3 s, also baked into frame 0.
 - **Captions sidecar:** [`final.srt`](final.srt) (17 cues from the narration's word times; not burned in)
@@ -210,7 +210,7 @@ after the terminal line).
 - **End card length.** `retime --from-voice` keeps the end card's length, so the total came out at
   30.52 s; the close was set to 2.557 s by hand to keep 30.00 s. The review round took 0.7 s from
   the local scene's hold and gave it to the close (now 3.257 s).
-- **Install lines.** The end card shows the README's `/plugin marketplace add faviovazquez/showtime`
+- **Install lines.** The end card shows the README's `/plugin marketplace add Mudassir-Kidwai/video-creator-crew`
   and `/plugin install showtime@showtime`. The CHANGELOG still lists the final GitHub owner/name as
   a release-checklist item; update the end card if it changes.
 
@@ -239,7 +239,7 @@ were compared; `review/round-4/` in the job is the pack of the fixed video.
 
 | # | where | finding | what changed |
 |---|---|---|---|
-| 1 | end card, frame 0 | **blocker:** the install line uses `faviovazquez/showtime`, which the CHANGELOG still lists as unconfirmed | **not changed**: it matches the README and `.claude-plugin/`; only the owner can confirm it. If it moves, change `.install` in `project/index.html` and re-render (the poster is the end card, so both update) |
+| 1 | end card, frame 0 | **blocker:** the install line uses `Mudassir-Kidwai/video-creator-crew`, which the CHANGELOG still lists as unconfirmed | **not changed**: it matches the README and `.claude-plugin/`; only the owner can confirm it. If it moves, change `.install` in `project/index.html` and re-render (the poster is the end card, so both update) |
 | 2 | 28.4-30.0 s | install lines readable for only ~1.6 s | the local scene's 0.7 s hold after "locally" was cut, so the close starts at 26.74 s; `domain-warp 0.8` became `dip 0.4`; the install lines come in at 0.25 s instead of 0.85 s. Readable from about 27.1 s (~2.9 s). Music outro and logo sting moved with it |
 | 3 | 19.4-21.3 s | the voice says "Pick them", nothing gets picked, the shot holds nearly still | on the click (19.33 s) the recommended concept gets an amber ring and a "picked" chip and the other two dim; a slow push runs to the cut |
 | 4 | 19.5-21.3 s | the push sliced the board's tab row under the URL bar and cut the left column mid-word | the push moved from the page inside the browser to the whole browser (1.0 -> 1.31): its edges leave the video frame, nothing is sliced. The frame counter got a backing pill, since the board now runs under it |

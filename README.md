@@ -1,21 +1,21 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FavioVazquez/showtime/raw/main/assets/readme/marquee-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/FavioVazquez/showtime/raw/main/assets/readme/marquee-light.svg">
-    <img alt="Now showing: 22 examples, every frame rendered by showtime." src="https://github.com/FavioVazquez/showtime/raw/main/assets/readme/marquee-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mudassir-Kidwai/video-creator-crew/raw/main/assets/readme/marquee-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mudassir-Kidwai/video-creator-crew/raw/main/assets/readme/marquee-light.svg">
+    <img alt="Now showing: 22 examples, every frame rendered by showtime." src="https://github.com/Mudassir-Kidwai/video-creator-crew/raw/main/assets/readme/marquee-light.svg" width="100%">
   </picture>
 </p>
 
 # showtime examples
 
-Twenty-two finished videos made with [showtime](https://github.com/FavioVazquez/showtime), the local video
+Twenty-two finished videos made with [showtime](https://github.com/Mudassir-Kidwai/video-creator-crew), the local video
 studio for Claude Code, plus its launch film. Each one was made by an agent acting as a user, from a single
 request. Every folder keeps the project sources, the share copy and a README that tells the story: the
 request, the assumptions, the commands, what the critic found and what changed.
 
 **[Open the gallery](examples/README.md)** to browse them by use case, or watch them all play on the
-[showtime site](https://faviovazquez.github.io/showtime/gallery.html). To make your own, install the plugin:
-the [quick start](https://github.com/FavioVazquez/showtime#quick-start) takes two commands in Claude Code.
+[showtime site](https://mudassir-kidwai.github.io/video-creator-crew/gallery.html). To make your own, install the plugin:
+the [quick start](https://github.com/Mudassir-Kidwai/video-creator-crew#quick-start) takes two commands in Claude Code.
 
 ## What is here
 
@@ -32,7 +32,7 @@ the [quick start](https://github.com/FavioVazquez/showtime#quick-start) takes tw
 
 Git keeps the posters, captions, share copy, project sources and every video up to 10 MB. Any file over
 10 MB and every ProRes `.mov` is an asset of this repository's release
-[`examples-media-v1`](https://github.com/FavioVazquez/showtime-examples/releases/tag/examples-media-v1),
+[`examples-media-v1`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/tag/examples-media-v1),
 listed in [`examples/MEDIA.json`](examples/MEDIA.json) with its size and SHA-256, and kept out of git by
 the managed block at the end of [`.gitignore`](.gitignore). The gallery and each example's README link
 straight to those files.
@@ -47,8 +47,8 @@ python3 scripts/publish_media.py --upload               # upload them (needs gh 
 ## Rebuilding an example
 
 Each example's `project/` folder (or episode folder) is a showtime project, and its README lists the
-commands in order. Install [showtime](https://github.com/FavioVazquez/showtime#quick-start) first; the
-commands are documented in its [guides](https://github.com/FavioVazquez/showtime/blob/main/docs/README.md).
+commands in order. Install [showtime](https://github.com/Mudassir-Kidwai/video-creator-crew#quick-start) first; the
+commands are documented in its [guides](https://github.com/Mudassir-Kidwai/video-creator-crew/blob/main/docs/README.md).
 
 ## Licenses and credits
 
@@ -60,4 +60,4 @@ Hands" by Scott Buckley, CC BY 4.0; under the composer's terms it ships only ins
 separate audio file ([credits](examples/_launch/credits.txt)).
 
 Changes and issues about showtime itself belong in the
-[showtime repository](https://github.com/FavioVazquez/showtime/issues).
+[showtime repository](https://github.com/Mudassir-Kidwai/video-creator-crew/issues).

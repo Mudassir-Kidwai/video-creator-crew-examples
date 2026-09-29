@@ -11,7 +11,7 @@
     ]
   },
   "release": {
-    "repo": "FavioVazquez/showtime-examples",
+    "repo": "Mudassir-Kidwai/video-creator-crew-examples",
     "tag": "examples-media-v1",
     "url_pattern": "https://github.com/{repo}/releases/download/{tag}/{asset}"
   },

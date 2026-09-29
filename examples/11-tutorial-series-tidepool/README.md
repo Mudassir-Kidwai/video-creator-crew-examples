@@ -7,8 +7,8 @@ every frame is a pure function of time.
 
 | Episode | Length | Watch | Poster |
 |---|---|---|---|
-| 01 · Capture a note in seconds | 92.4 s, 7 steps | [`episode-01/final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/11-tutorial-series-tidepool--episode-01--final.mp4) · [`episode-01/final.html`](episode-01/final.html) | [`episode-01/poster.jpg`](episode-01/poster.jpg) |
-| 02 · Find anything with search and tags | 90.1 s, 8 steps | [`episode-02/final.mp4`](https://github.com/FavioVazquez/showtime-examples/releases/download/examples-media-v1/11-tutorial-series-tidepool--episode-02--final.mp4) · [`episode-02/final.html`](episode-02/final.html) | [`episode-02/poster.jpg`](episode-02/poster.jpg) |
+| 01 · Capture a note in seconds | 92.4 s, 7 steps | [`episode-01/final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/11-tutorial-series-tidepool--episode-01--final.mp4) · [`episode-01/final.html`](episode-01/final.html) | [`episode-01/poster.jpg`](episode-01/poster.jpg) |
+| 02 · Find anything with search and tags | 90.1 s, 8 steps | [`episode-02/final.mp4`](https://github.com/Mudassir-Kidwai/video-creator-crew-examples/releases/download/examples-media-v1/11-tutorial-series-tidepool--episode-02--final.mp4) · [`episode-02/final.html`](episode-02/final.html) | [`episode-02/poster.jpg`](episode-02/poster.jpg) |
 
 Sizes, loudness and QA results are in each episode's README.
 
